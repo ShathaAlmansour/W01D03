@@ -1,0 +1,22 @@
+h1, h2 {
+    background-color: orange;
+    text-align: center;
+}
+ 
+body{
+    color: maroon;
+    font-family: "Times New Roman";  
+    margin: 2%; 
+    margin: center; 
+}
+
+p{
+    color: chocolate;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    margin: center;
+
+  }
