@@ -7,16 +7,14 @@ body{
     color: maroon;
     font-family: "Times New Roman";  
     margin: 2%; 
-    margin: center; 
 }
 
 p{
     color: chocolate;
 }
 
-div {
+img {
     width: 300px;
     height: 300px;
     margin: center;
-
   }
