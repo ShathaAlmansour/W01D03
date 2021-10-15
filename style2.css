@@ -1,0 +1,60 @@
+body {
+    width: 65%;
+    margin: auto;
+}
+
+.cover {
+    width: 60%;
+    height: 60%;
+    display: block;
+    object-fit: cover;
+}
+
+.list {
+    background-color: orange;
+    padding: 3px;
+  }
+ 
+  a:link { text-decoration: none;
+color: black;}
+
+main nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px; 
+ }
+ .picture {
+     display: flex;
+     flex-direction: row;
+     background-color: grey;
+     justify-content: space-between;
+ }
+
+a:hover{
+    background-color: white;
+}
+
+.Information {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+}
+footer{
+    text-align: center;
+}
+a span {
+    color: blue;
+}
+.overviwe{
+    display: text;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.red {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+    color: red;
+}
