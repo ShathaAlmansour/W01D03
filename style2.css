@@ -52,9 +52,14 @@ a span {
     flex-direction: row;
 }
 .red {
+    
     display: flex;
     justify-content: space-between;
     flex-direction: row;
     align-items: flex-start;
-    color: red;
+    background-color: red;
+    border-radius: 5px;
+    border: 3px none black;
 }
+
+
